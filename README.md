@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sandy Om''Iniabohs
+### Hi there 👋, I'm Sandy Om'Iniabohs
 
 <!--
 **SandyCOG/SandyCOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

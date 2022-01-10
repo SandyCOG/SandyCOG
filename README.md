@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building my portfolio by working on real world projects.
+## - 🔭 I’m currently working on building my portfolio by working on real world projects.
 - 🌱 I’m currently learning how to use BeautifulSoup
 - 💬 Ask me about anything
 - 👯 I’m looking to collaborate on Data science and Machine learning projects
